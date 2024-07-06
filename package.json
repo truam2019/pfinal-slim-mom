@@ -2,7 +2,7 @@
   "name": "slim-mom",
   "version": "0.0.1",
   "private": true,
-  "homepage": " https://truam2019.github.io/slim-mom/",
+  "homepage": " https://github.com/truam2019/pfinal-slim-mom",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
